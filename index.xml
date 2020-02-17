@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Ahrens</title>
+    <link>https://MaximilianAhrens.github.io/</link>
+      <atom:link href="https://MaximilianAhrens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Ahrens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Maximilian Ahrens</copyright><lastBuildDate>Tue, 24 Sep 2019 17:07:10 +0100</lastBuildDate>
+    <image>
+      <url>https://MaximilianAhrens.github.io/img/icon-192.png</url>
+      <title>Max Ahrens</title>
+      <link>https://MaximilianAhrens.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Matlab course</title>
+      <link>https://MaximilianAhrens.github.io/teaching/mfe/mfe_matlab/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/teaching/mfe/mfe_matlab/</guid>
+      <description>
+
+&lt;p&gt;Throughout the course, we will use Matlab as our programming language in class.
+There also exists a Python documentation for this course. However, going through the programming assignments in Python is voluntary and will not be actively covered in class.&lt;/p&gt;
+
+&lt;h2 id=&#34;matlab-documentation&#34;&gt;Matlab documentation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tbd&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;matlab-code&#34;&gt;Matlab code&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tbd&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;matlab-data&#34;&gt;Matlab data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tbd&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;python-documentation&#34;&gt;Python documentation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tbd&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;python-code&#34;&gt;Python code&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tbd&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;python-data&#34;&gt;Python data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tbd&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1-4 (Jeremy Large)</title>
+      <link>https://MaximilianAhrens.github.io/teaching/mfe/mfe_week_1_4/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/teaching/mfe/mfe_week_1_4/</guid>
+      <description>
+
+&lt;p&gt;I will post the class slides and solutions to the problems sets after each class.&lt;/p&gt;
+
+&lt;h2 id=&#34;week-1&#34;&gt;Week 1&lt;/h2&gt;
+
+&lt;h2 id=&#34;week-2&#34;&gt;Week 2&lt;/h2&gt;
+
+&lt;h2 id=&#34;week-3&#34;&gt;Week 3&lt;/h2&gt;
+
+&lt;h2 id=&#34;week-4&#34;&gt;Week 4&lt;/h2&gt;
+
+&lt;h2 id=&#34;useful-explanatory-youttube-videos&#34;&gt;Useful explanatory YoutTube videos&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 5-8 (Matthias Qian)</title>
+      <link>https://MaximilianAhrens.github.io/teaching/mfe/mfe_week_5_8/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/teaching/mfe/mfe_week_5_8/</guid>
+      <description>
+
+&lt;p&gt;I will post the class slides and solutions to the problems sets after each class.&lt;/p&gt;
+
+&lt;h2 id=&#34;week-5&#34;&gt;Week 5&lt;/h2&gt;
+
+&lt;h2 id=&#34;week-6&#34;&gt;Week 6&lt;/h2&gt;
+
+&lt;h2 id=&#34;week-7&#34;&gt;Week 7&lt;/h2&gt;
+
+&lt;h2 id=&#34;week-8&#34;&gt;Week 8&lt;/h2&gt;
+
+&lt;h2 id=&#34;useful-explanatory-youttube-videos&#34;&gt;Useful explanatory YoutTube videos&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identifying Monetary Policy Shocks in Speeches (coming soon)</title>
+      <link>https://MaximilianAhrens.github.io/project/nlp_mpshocks_speeches/</link>
+      <pubDate>Tue, 24 Sep 2019 17:07:10 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/project/nlp_mpshocks_speeches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Artificial Intelligence on the Legal Profession (coming soon)</title>
+      <link>https://MaximilianAhrens.github.io/project/law_professions/</link>
+      <pubDate>Tue, 24 Sep 2019 17:01:46 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/project/law_professions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Topic Regression (coming soon)</title>
+      <link>https://MaximilianAhrens.github.io/project/nlp_bayesslda/</link>
+      <pubDate>Tue, 24 Sep 2019 16:49:58 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/project/nlp_bayesslda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

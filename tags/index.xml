@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Max Ahrens</title>
+    <link>https://MaximilianAhrens.github.io/tags/</link>
+      <atom:link href="https://MaximilianAhrens.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Maximilian Ahrens</copyright><lastBuildDate>Tue, 24 Sep 2019 17:07:10 +0100</lastBuildDate>
+    <image>
+      <url>https://MaximilianAhrens.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://MaximilianAhrens.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>monetary-policy</title>
+      <link>https://MaximilianAhrens.github.io/tags/monetary-policy/</link>
+      <pubDate>Tue, 24 Sep 2019 17:07:10 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/tags/monetary-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://MaximilianAhrens.github.io/tags/nlp/</link>
+      <pubDate>Tue, 24 Sep 2019 17:07:10 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time-series</title>
+      <link>https://MaximilianAhrens.github.io/tags/time-series/</link>
+      <pubDate>Tue, 24 Sep 2019 17:07:10 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>professions</title>
+      <link>https://MaximilianAhrens.github.io/tags/professions/</link>
+      <pubDate>Tue, 24 Sep 2019 17:01:46 +0100</pubDate>
+      <guid>https://MaximilianAhrens.github.io/tags/professions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
